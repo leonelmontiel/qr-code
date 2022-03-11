@@ -9,11 +9,7 @@ body {
 }
 
 .card {
-    max-width: 250px;
-}
-
-.card-body {
-    padding: 0.7rem;
+    max-width: 325px;
 }
 
 .card img:hover {
