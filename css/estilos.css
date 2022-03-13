@@ -23,3 +23,7 @@ body {
 .card p {
     font-weight: 500;
 }
+
+h1 {
+    font-size: 1.2em;
+}
